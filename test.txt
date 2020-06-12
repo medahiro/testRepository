@@ -1,3 +1,6 @@
 test
 update by local
 update by browser
+
+fork dekita
+pull reqest suru
